@@ -1,4 +1,6 @@
-##Seoul Bike Prediction ESILV Project - Python for data analysis course 2020
+#SeoulBikePrediction 
+
+ESILV Project - Python for data analysis course 2020
 
 Theo ZANGATO , Youssef ZEMALI
 
