@@ -4,6 +4,12 @@ ESILV Project - Python for data analysis course 2020
 
 Theo ZANGATO , Youssef ZEMALI
 
+## Contexte :
+
+
+Actuellement, des vélos de location sont introduits dans de nombreuses villes urbaines pour améliorer le confort de la mobilité. Il est important de rendre le vélo de location disponible et accessible au public au bon moment car cela réduit le temps d'attente. A terme, fournir à la ville une offre stable de vélos de location devient une préoccupation majeure. La partie cruciale est la prévision du nombre de vélos requis à chaque heure pour un approvisionnement stable en vélos de location.
+L'ensemble de données contient des informations météorologiques (température, humidité, vitesse du vent, visibilité, point de rosée, rayonnement solaire, chutes de neige, précipitations), le nombre de vélos loués par heure et des informations de date.
+
 ## Objectif/Résumé
 
 Le but de ce projet est de prédire le nombre de vélos loués à Séoul pendant un certain jours. 
